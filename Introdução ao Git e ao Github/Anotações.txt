@@ -1,0 +1,27 @@
+Comandos básicos terminal
+
+*****Windows*****
+
+dir = mostrar os diretorios de uma pasta
+cd = para navedar nos diretorios
+cd / = vai para a base do diretorio c
+cd .. = retrocede um nivel no repositorio (volta uma pasta do diretorio)
+cls ou apertar CTRL+L= limpa os comandos da tela
+TAB = completa o texto digitado
+Shift + seta para cima = movimenta nos historicos de comandos digitados no terminalpara os 
+ls = lista 
+pwd = mostra o diretorio
+
+
+
+criação de repositorio (pasta)
+mkdir + nome nova pasta = criar repositorios 
+
+deletar repositorio (pasta)
+rmdir +nome pasta /S /Q = deleta todo o repositorio e os arquivos de dentro 
+
+criação de arquivos 
+echo hello > hello.txt ( caso não encontra o arquivo hello.txt vai cria na pasta) 
+
+deletar arquivos
+del+nome arquivo = deletar os arquivos
